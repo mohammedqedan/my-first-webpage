@@ -10,11 +10,11 @@ _This is our first web page that we are building to learn html, CSS, and other w
 
 ## Setup/Installation Requirements
 
-* _Clone the GitHub repository at [this link](https://github.com/mohammedqedan/my-first-webpage.git)
+* _Clone the GitHub repository at [this link](https://github.com/mohammedqedan/my-first-webpage.git)_
 
-* Navigate to project folder
+* _Navigate to project folder_
 
-* Open my-first-webpage.html in your browser of choice_
+* _Open my-first-webpage.html in your browser of choice_
 
 ## Known Bugs
 
